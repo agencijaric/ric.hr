@@ -1,0 +1,15 @@
+body{text-align: center;}
+
+p{margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+font-family: Spartan ;
+font-size: xx-large;
+text-align: center;}
+
+@font-face {
+    font-family: Spartan;
+    src: url(League_Spartan/static/LeagueSpartan-Bold.ttf);}
+
+div {text-align: center;}
